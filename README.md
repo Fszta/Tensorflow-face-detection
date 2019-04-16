@@ -34,6 +34,12 @@ bash runDetection.sh
 ## Result 
 Achieves 19 FPS with a 640x480 resolution on Intel Core i7-7600U CPU 2.80GHz × 4 U. 
 
+<p float="left">
+  <img src="img/ex1.png" alt="ex1" class="inline" height = 45% width = 45% /> 
+  <img src="img/ex2.png" alt="ex2" class="inline" height = 45% width = 45% />
+</p>
+
+
 ## Train Model
 
 If you want to train your own model, i advise you to follow the tutorial about tensorflow object detection api, you'll just need to download an annotated dataset. 
