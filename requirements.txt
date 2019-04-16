@@ -1,0 +1,9 @@
+numpy
+Pillow
+imutils
+notebook 
+jupyter 
+tensorflow
+moviepy 
+autovizwidget
+opencv-python
